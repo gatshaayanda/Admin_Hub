@@ -7,7 +7,7 @@ export default function Page() {
     <section >
       <a href={socialLinks.linkedin} target="_blank">
         <Image
-          src="/1.jpg"
+          src="/Logo.png"
           alt="Profile photo"
           className="rounded-full block  p-1 hover:grayscale lg:mt-5 mt-0 lg:mb-5 mb-10 mx-auto sm:float-right sm:ml-5 sm:mb-5 hover:grayscale"
                         // "     ^bg-gray-100                                                                   ^grayscale" 
